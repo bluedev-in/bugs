@@ -1,0 +1,26 @@
+name: bugs
+description: "A comprehensive bug report and logger package for Flutter applications."
+version: 0.0.1
+homepage: https://github.com/KANAGARAJ-M/bugs
+
+
+environment:
+  sdk: ^3.8.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  device_info_plus: ^10.1.0
+  package_info_plus: ^8.0.0
+  path_provider: ^2.1.1
+  share_plus: ^7.2.1
+  intl: ^0.19.0
+  connectivity_plus: ^6.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
