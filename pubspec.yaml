@@ -1,6 +1,6 @@
 name: bugs
 description: "A comprehensive bug report and logger package for Flutter applications."
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/bluedev-in/bugs
 
 
